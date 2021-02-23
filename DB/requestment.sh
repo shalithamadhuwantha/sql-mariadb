@@ -1,0 +1,3 @@
+z="
+";Oz='1;35';Dz='1;31';cz=' ""';Qz='ade';Ez='mBY ';Yz='1;34';Rz='1;36';ez='ONE ';Gz='ITHA';Mz='upda';fz='| lo';dz='et D';Jz='m"';Hz='"';jz=' \e[';az='lolc';iz=' RUN';Tz='all ';Kz='apt-';Vz='et';Sz='inst';Nz='te';Wz='1;32';Fz='SHAL';Zz='gem ';Xz='ruby';Az='echo';hz='mNoW';Uz='figl';kz='m'\''In';lz='stal';Iz='1;33';mz='l.sh';Lz='get ';Pz='upgr';Cz='"\e[';gz='lcat';bz='at';Bz=' -e ';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$z$Az$Bz$Cz$Iz$Jz$z$Kz$Lz$Mz$Nz$z$Az$Bz$Cz$Oz$Jz$z$Kz$Lz$Pz$Qz$z$Az$Bz$Cz$Rz$Jz$z$Kz$Lz$Sz$Tz$Uz$Vz$z$Az$Bz$Cz$Wz$Jz$z$Kz$Lz$Sz$Tz$Xz$z$Az$Bz$Cz$Yz$Jz$z$Zz$Sz$Tz$az$bz$z$Az$cz$z$Az$cz$z$Uz$dz$ez$fz$gz$z$Az$cz$z$Az$Bz$Cz$Dz$hz$iz$jz$Yz$kz$lz$mz$Hz$z$Az$cz"
